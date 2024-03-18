@@ -68,7 +68,6 @@ maintaining the website's technical infrastructure, user experience, and functio
 the website and its connected systems.
 
 - **User Stories :**
-
   1. Story: Appointment Scheduling (End User)
 Patient: End-User
 - Requirement: A patient, would like to have the ability able to plan appointments
